@@ -1,0 +1,2 @@
+# webNews
+a simple website
